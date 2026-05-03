@@ -1,0 +1,6 @@
+# Ignorar archivos de notas
+notas.txt
+# Ignorar todos los archivos con extensión .local
+*.local
+# Ignorar archivos de log
+*.log
